@@ -118,7 +118,7 @@ const Section7 = () => {
       <div className="w-[35%] max-xl:w-full">
           <p className="my-5 text-start">Je suis actuellement disponible pour prendre en charge de nouveaux projets, alors n&apos;hésitez pas à m&apos;envoyer un message sur tout ce que vous souhaitez me confier. Vous pouvez me contacter à tout moment 24h/24 et 7j/7.</p>
           <div className="flex flex-col">
-            <a href="tel:+22961916209" className="font-semibold my-5 underline text-[20px] hover:text-primary max-sm:text-[15px]">+229 619 162 09</a>
+            <a href="tel:+22961916209" className="font-semibold my-5 underline text-[20px] hover:text-primary max-sm:text-[15px]">+229 01 619 162 09</a>
             <a href="mailto:maqsoud.tawaliou@epitech.eu" className="font-semibold my-5 underline text-[20px] hover:text-primary max-sm:text-[15px]">maqsoud.tawaliou@epitech.eu</a>
           </div>
           <div className="flex max-xl:justify-center items-center my-5">
