@@ -1,13 +1,11 @@
 "use client"
 
 import Image from 'next/image'
-import React, { useState } from 'react'
-import Logo from "@/public/assets/images/logo.png"
+import React from 'react'
 import Logo1 from "@/public/assets/images/logo1.png"
 import { navbar } from '@/lib/utils'
 
 const Footer = () => {
-    const [theme, setTheme] = useState("");
   return (
     <div className="flex flex-col w-full bg-popover items-center py-[50px] mt-20">
         <div>

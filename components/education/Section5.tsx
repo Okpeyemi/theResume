@@ -39,7 +39,7 @@ const Section5 = () => {
           {/* Ligne verticale */}
           <div className="absolute left-[5px] top-[20px] w-[1px] h-[140px] bg-muted"></div>
           <h2 className="text-[20px] font-semibold">Stage académique</h2>
-          <h4 className="font-medium my-2">Stage en vue d'obtention <br /> de licence pro</h4>
+          <h4 className="font-medium my-2">Stage en vue d&apos;obtention <br /> de licence pro</h4>
           <p className="font-medium text-muted-foreground">Février 2022 à Mai 2022</p>
         </div>
         <div className="relative pl-7">

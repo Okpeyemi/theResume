@@ -7,11 +7,10 @@ import {
     DropdownMenuTrigger,
   } from "@/components/ui/dropdown-menu"
 import { navbar } from "@/lib/utils"
-import { link } from "fs"
 import { Menu } from "lucide-react"
 
 import React from 'react'
-import Resume from "./Resume"
+// import Resume from "./Resume"
 
 const ToggleButton = () => {
   return (

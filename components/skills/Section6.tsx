@@ -6,7 +6,7 @@ import Image from 'next/image'
 import { Button } from '../ui/button'
 
 const Section6 = () => {
-    const [active, setActive] = useState(false);
+    // const [active, setActive] = useState(false);
     const [id, setId] = useState(0)
     const [showMore, setShowMore] = useState(false);
 
@@ -20,11 +20,11 @@ const Section6 = () => {
                         key={skill.id}
                         className="flex flex-col items-center"
                         onMouseEnter={() => {
-                            setActive(true);
+                            // setActive(true);
                             setId(skill.id);
                         }}
                         onMouseLeave={() => {
-                            setActive(false);
+                            // setActive(false);
                             setId(skill.id);
                         }}
                     >

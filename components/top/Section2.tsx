@@ -26,7 +26,7 @@ const Section2 = () => {
                 alt="Job"
             />
             <h1 className="font-medium text-[70px] min-w-[185px] max-md:text-[100px]">3</h1>
-            <p className="font-semibold">Années d'expériences</p>
+            <p className="font-semibold">Années d&apos;expériences</p>
         </div>
         <div className="flex flex-col max-md:my-10">
             <Image

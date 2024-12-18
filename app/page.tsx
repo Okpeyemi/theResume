@@ -5,7 +5,6 @@ import Header from "@/components/Header";
 import Skills from "@/components/Skills";
 import Specialisation from "@/components/Specialisation";
 import Top from "@/components/Top";
-import Image from "next/image";
 
 export default function Home() {
   return (
